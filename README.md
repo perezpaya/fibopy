@@ -1,6 +1,6 @@
-# Python Fibbonacci calculation script
+# Python Fibonacci calculation script
 
-## Fibbonacci utilities
+## Fibonacci utilities
 
 They can be used for many aplications, eg: if you divide ()n / n - 1) where n is a position, you get an aproximated value of Phi number, when the number is bigger, the best aproximation you get.
 

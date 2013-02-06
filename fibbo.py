@@ -15,7 +15,7 @@ while 1:
 	f.write(t)
 	
 	'''
-		Fibbonacci also can be used to get an aproximated
+		Fibonacci also can be used to get an aproximated
 		value of phi number
 		## print Decimal(a)/Decimal(c)
 	'''
